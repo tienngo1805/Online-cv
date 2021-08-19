@@ -93,7 +93,12 @@ body
         text-align: center;
     }
 
-#gridItem li
+#gridItem li 
     {
         text-align: left;
+    }
+
+#gridItem li li
+    {
+        margin-left: 10%; 
     }
